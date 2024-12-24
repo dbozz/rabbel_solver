@@ -1,4 +1,4 @@
-This is a quite simple program that tries to find the words for the game rabbel.se
+This is a simple program that tries to find the words for the game rabbel.se
 
 To use it:
 Just enter the games characters in the matrix at the top of the code, and run it. It should return a list with all the words.
